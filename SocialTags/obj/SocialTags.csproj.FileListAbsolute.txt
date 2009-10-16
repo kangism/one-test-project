@@ -1,0 +1,12 @@
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Debug\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Debug\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Release\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Release\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Release\lastfm-sharp.dll
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Release\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Release\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Debug\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Debug\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\bin\Debug\lastfm-sharp.dll
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2005\Projects\SocialTags\SocialTags\obj\Debug\ResolveAssemblyReference.cache
