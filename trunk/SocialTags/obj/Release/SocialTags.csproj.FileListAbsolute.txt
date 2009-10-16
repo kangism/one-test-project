@@ -1,0 +1,5 @@
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2008\Projects\SocialTags\SocialTags\obj\Release\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2008\Projects\SocialTags\SocialTags\obj\Release\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2008\Projects\SocialTags\SocialTags\bin\Release\SocialTags.exe
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2008\Projects\SocialTags\SocialTags\bin\Release\SocialTags.pdb
+C:\Documents and Settings\workshop\My Documents\Visual Studio 2008\Projects\SocialTags\SocialTags\obj\Release\ResolveAssemblyReference.cache
