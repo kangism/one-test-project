@@ -64,6 +64,7 @@ namespace SocialTags
         public ArrayList computeScore(string[] trackNamesAndArtists, Session session)
         {
             ArrayList trackTagsList = new ArrayList();
+            int index = 1;
 
             foreach (string s in trackNamesAndArtists)
             {
@@ -82,7 +83,8 @@ namespace SocialTags
                 {
                     trackName = trackName.Replace(" ve ", @"'ve ");
                 }
-
+                System.Console.WriteLine("fetching tags for track: ({0})", trackName);
+                System.Console.WriteLine("{0} tracks left", trackNamesAndArtists.Length - index++);
                 TopTag[] trackToptags = this.getTopTagsForTrack(artistName, trackName, session);
                 TopTag[] artistToptags = this.getTopTagsForArtist(artistName, session);
                 object[] obj = new object[5];
@@ -198,7 +200,7 @@ namespace SocialTags
             session = SocialTags.doAuthentication();
             
             //read file
-            trackNamesAndArtists = SocialTags.read(@"songNames.txt");
+            trackNamesAndArtists = SocialTags.read(@"songNames.txt"); 
 
             //compute scores for each track and artist
             trackTagsList = SocialTags.computeScore(trackNamesAndArtists, session);
